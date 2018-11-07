@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "Libera V",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "Libera V: Journey Beyond Organotechnotopia",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/maxrobertcohen/bot.git"
   },
   "keywords": [
     "slack",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Max Cohen",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/maxrobertcohen/bot",
   "engines": {
     "node": "5.1.1"
   },
